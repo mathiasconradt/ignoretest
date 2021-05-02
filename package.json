@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "adm-zip": "^0.4.7",
+    "adm-zip": "^0.5.2",
     "typeorm": "^0.2.24"
   }
 }
